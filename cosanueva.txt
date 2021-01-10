@@ -1,5 +1,5 @@
-Hola, este es mi primer 
+Hola, este es mi segundo 
 
-proyecto en git
+proyecto en git y esta bien aspero
 
 Esto esta melo...
