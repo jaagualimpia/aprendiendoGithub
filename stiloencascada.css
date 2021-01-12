@@ -1,6 +1,13 @@
 #tituloEnorme{
-    font-size:10em;
+    color: royalblue;
+    font-size:5em;
     font-family: 'Times New Roman', Times, serif;
-    border: 2px 2px 2px 2px;
+    border: 5px solid green;
+    text-align: center;
+}
 
+body{
+    background-color:black;
+    color: white;
+    text-align: center;
 }
