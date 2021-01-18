@@ -26,3 +26,17 @@ header{
     margin-top: 15px;
     margin-left: 4px;
 }
+
+footer{
+    background-color: rgb(65, 147, 202);
+    width: 100%;
+    left: 0%;
+    bottom: 0%;
+    position: absolute;
+    line-height: 3px;
+}
+
+#contenidoFooter h3{
+    float: left;
+    margin-left: 20%;
+}
