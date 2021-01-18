@@ -11,3 +11,18 @@ body{
     color: white;
     text-align: center;
 }
+
+header{
+    background-color: rgb(65, 147, 202);
+    height: 50px;
+    width: 100%;
+    left: 0%;
+    top: 0%;
+    position: absolute;
+}
+
+#textoHeader{
+    float: left;
+    margin-top: 15px;
+    margin-left: 4px;
+}
